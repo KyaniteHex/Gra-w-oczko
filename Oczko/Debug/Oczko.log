@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\Talerzyk\source\repos\Oczko\Oczko\Źródło.cpp(37,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Oczko.vcxproj -> C:\Users\Talerzyk\source\repos\Oczko\Debug\Oczko.exe
